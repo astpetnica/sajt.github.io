@@ -1241,10 +1241,10 @@ responsive
   }
 
 }
-
-@media (max-width: 450px) {
-  .feature-item .right-content a.text-button {
-    margin-left: 130px;
+@media screen and (max-width: 40.5em) {
+  .product-img {
+    width: auto;
+    float: none;
   }
 }
 
